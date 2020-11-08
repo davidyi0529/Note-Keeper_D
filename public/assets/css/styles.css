@@ -4,6 +4,14 @@ html, body {
   padding: 0;
 }
 
+.bg {
+  background-image: url("https://image.freepik.com/free-photo/female-hand-is-writing-notepad-with-pen-office_35708-129.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .save-note {
   display: none;
 }
@@ -20,6 +28,11 @@ html, body {
   width: 100%;
   outline: none;
   border: none;
+  background-image: url("https://st.depositphotos.com/1427101/4954/v/450/depositphotos_49546753-stock-illustration-vertical-spiral-notepad.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .note-textarea {
