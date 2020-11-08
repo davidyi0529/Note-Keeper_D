@@ -26,11 +26,11 @@ Note-Keeper_D is a simple note taking application that allows you to save notes 
 
 ### Screenshots of application:
 
-<img src="https://github.com/davidyi0529/Employee-Summary-Template_D_v2/blob/main/assets/results.png?raw=true" width="800" height="600">
+<img src="https://github.com/davidyi0529/Note-Keeper_D/blob/main/public/assets/images/loadingpage.png?raw=true" width="800" height="600">
 
-[<img src="https://github.com/davidyi0529/Employee-Summary-Template_D_v2/blob/main/assets/prompts.png?raw=true" width="800" height="600">](https://youtu.be/XAFuzBbR6c4)
+<img src="https://github.com/davidyi0529/Note-Keeper_D/blob/main/public/assets/images/notepage.png?raw=true" width="800" height="600">
 
-[<img src="https://github.com/davidyi0529/Employee-Summary-Template_D_v2/blob/main/assets/jest.png?raw=true" width="800" height="600">](https://youtu.be/UHLHP0x-RMc)
+[<img src="https://github.com/davidyi0529/Note-Keeper_D/blob/main/public/assets/images/videoimage.png?raw=true" width="800" height="600">](https://youtu.be/_sHquVGGOYQ)
 
 <br />
 <br />
